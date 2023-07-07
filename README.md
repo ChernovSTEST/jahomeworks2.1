@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0q47qagyyhf6jp0f?svg=true)](https://ci.appveyor.com/project/ChernovSTEST/jahomeworks2-1)
